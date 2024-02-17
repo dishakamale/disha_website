@@ -21,30 +21,28 @@ role: Ph.D. Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Lehighd University
+  - name: Lehigh University
     url: https://wordpress.lehigh.edu/robotics/
 
 # Short bio (displayed in user profile at end of posts)
-bio:  lalallalaa
+bio:  Hello! I am a Ph.D. candidate at Lehigh University under the guidance of Dr. Cristian-Ioan Vasile. 
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Safe Planning and Decision-making
+  - Perception-aware Planning 
+  - Explainable AI 
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD, Mechanical Engineering
+      institution: Lehigh University
+      year: 2020 - present
+    - course: B.Tech. Mechanical Engineering
+      institution: Visvesvaraya National Institute of Technology (NIT), India
+      year: 2019
+
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -120,5 +118,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hello! I am a Ph.D. candidate at Lehigh University under the guidance of Dr. Cristian-Ioan Vasile.
 {style="text-align: justify;"}
