@@ -31,7 +31,7 @@ bio:  Hello! I am a Ph.D. candidate at Lehigh University advised by Dr. Cristian
 interests:
   - Safe Planning and Decision-making
   - Perception-aware Planning 
-  - Explainable AI 
+  - Controls Under Uncertainty
 
 # Education to show in About widget
 education:
@@ -91,7 +91,7 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'ddk320@lehigh.edu'
   #- icon: twitter
   #  icon_pack: fab
   #  link: https://twitter.com/GeorgeCushen
@@ -118,5 +118,5 @@ social:
 highlight_name: true
 ---
 
-Hello! I am a Ph.D. candidate at Lehigh University under the guidance of Dr. Cristian-Ioan Vasile.
+Hello! I am a Ph.D. candidate at Lehigh University under the guidance of Dr. Cristian-Ioan Vasile. My research vision is to create algorithmic framworks for safe, perception-aware decision-making. 
 {style="text-align: justify;"}
