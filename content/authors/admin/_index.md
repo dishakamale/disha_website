@@ -25,13 +25,13 @@ organizations:
     url: https://wordpress.lehigh.edu/robotics/
 
 # Short bio (displayed in user profile at end of posts)
-bio:  Hello! I am a Ph.D. candidate at Lehigh University advised by Dr. Cristian-Ioan Vasile. My research interests are perception-aware planning and 
+bio:  Hello! I am a Ph.D. candidate at Lehigh University advised by Dr. Cristian-Ioan Vasile. My research interests are perception-aware planning and decision-making with formal guarantees. 
 
 # Interests to show in About widget
 interests:
   - Safe Planning and Decision-making
   - Perception-aware Planning 
-  - Controls Under Uncertainty
+  - Formal Methods
 
 # Education to show in About widget
 education:
