@@ -17,7 +17,7 @@ last_name: Kamale
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Candidate
+role: Ph.D. Student @ Lehigh Univesity 
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -25,7 +25,7 @@ organizations:
     url: https://wordpress.lehigh.edu/robotics/
 
 # Short bio (displayed in user profile at end of posts)
-bio:  Hello! I am a Ph.D. candidate at Lehigh University under the guidance of Dr. Cristian-Ioan Vasile. 
+bio:  Hello! I am a Ph.D. candidate at Lehigh University advised by Dr. Cristian-Ioan Vasile. My research interests are perception-aware planning and 
 
 # Interests to show in About widget
 interests:
@@ -92,27 +92,27 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
+  #- icon: twitter
+  #  icon_pack: fab
+  #  link: https://twitter.com/GeorgeCushen
+  #  label: Follow me on Twitter
+  #  display:
+  #    header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: ![Alt text](edited_shortlisted.jpg)
+    link: https://scholar.google.com/citations?user=KKssrgQAAAAJ&hl=en&authuser=2
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/dishakamale
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/dishakamale/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+  #- icon: cv
+  #  icon_pack: ai
+  #  link: uploads/resume.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
