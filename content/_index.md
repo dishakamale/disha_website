@@ -59,7 +59,7 @@ sections:
           company_url: ''
           <!---company_logo: org-gc --> 
           location: USA
-          date_start: '2020'
+          date_start: ''
           date_end: ''
           description: |2-
               Responsibilities include:
