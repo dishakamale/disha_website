@@ -28,8 +28,7 @@ publication_types: ['paper-conference']
 # Publication name and optional abbreviated publication name.
 publication: International Conference on Robotics and Automation (ICRA 2024), Yokohama, Japan 
 publication_short: In *ICRA*
-
-abstract:  In this work, we address the problem of control
+abstract: In this work, we address the problem of control
 synthesis for a homogeneous team of robots given a global
 temporal logic specification and formal user preferences for
 relaxation in case of infeasibility. The relaxation preferences
