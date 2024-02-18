@@ -59,10 +59,6 @@ sections:
           company_url: ''
           <!---company_logo: org-gc --> 
           location: USA
-          date_start: ''
-          date_end: ''
-          description: |2-
-              Responsibilities include:
 
               * Analysing
               * Modelling
