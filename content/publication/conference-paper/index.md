@@ -53,7 +53,7 @@ publication_short: In *ICRA*
 tags: [Multi-robot control synthesis, MILP, Automata, Temporal Logic]
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
@@ -89,7 +89,17 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: []
+
+
+title: 'Energy-Constrained Active Exploration Under Incremental-Resolution
+Symbolic Perception'
+
+authors:
+  - admin
+  - Sofie Haesaert
+  - Cristian-Ioan Vasile
 ---
+
 
 {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -100,3 +110,6 @@ Create your slides in Markdown - click the _Slides_ button to check out the exam
 {{% /callout %}}
 
 Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+
+
+
