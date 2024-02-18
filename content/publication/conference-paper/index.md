@@ -98,6 +98,17 @@ authors:
   - admin
   - Sofie Haesaert
   - Cristian-Ioan Vasile
+
+publication_types: ['paper-conference']
+
+# Publication name and optional abbreviated publication name.
+publication: Conference on Decision and Controls, Singapore 
+publication_short: In *CDC 2023*
+
+tags: [Perception-aware planning, Active Exploration, Sequential Decision-making]
+
+# Display this page in the Featured widget?
+featured: false
 ---
 
 
