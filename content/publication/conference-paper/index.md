@@ -28,24 +28,24 @@ publication_types: ['paper-conference']
 # Publication name and optional abbreviated publication name.
 publication: International Conference on Robotics and Automation (ICRA 2024), Yokohama, Japan 
 publication_short: In *ICRA*
-abstract: [In this work, we address the problem of control
-synthesis for a homogeneous team of robots given a global
-temporal logic specification and formal user preferences for
-relaxation in case of infeasibility. The relaxation preferences
-are represented as a Weighted Finite-state Edit System and are
-used to compute a relaxed specification automaton that captures
-all allowable relaxations of the mission specification and their
-costs. For synthesis, we introduce a Mixed Integer Linear Pro-
-gramming (MILP) formulation that combines the motion of the
-team of robots with the relaxed specification automaton. Our
-approach combines automata-based and MILP-based methods
-and leverages the strengths of both approaches, while avoid-
-ing their shortcomings. Specifically, the relaxed specification
-automaton explicitly accounts for the progress towards satis-
-faction, and the MILP-based optimization approach avoids the
-state-space explosion associated with explicit product-automata
-construction, thereby efficiently solving the problem. The case
-studies highlight the efficiency of the proposed approach.]
+# abstract: [In this work, we address the problem of control
+# synthesis for a homogeneous team of robots given a global
+# temporal logic specification and formal user preferences for
+# relaxation in case of infeasibility. The relaxation preferences
+# are represented as a Weighted Finite-state Edit System and are
+# used to compute a relaxed specification automaton that captures
+# all allowable relaxations of the mission specification and their
+# costs. For synthesis, we introduce a Mixed Integer Linear Pro-
+# gramming (MILP) formulation that combines the motion of the
+# team of robots with the relaxed specification automaton. Our
+# approach combines automata-based and MILP-based methods
+# and leverages the strengths of both approaches, while avoid-
+# ing their shortcomings. Specifically, the relaxed specification
+# automaton explicitly accounts for the progress towards satis-
+# faction, and the MILP-based optimization approach avoids the
+# state-space explosion associated with explicit product-automata
+# construction, thereby efficiently solving the problem. The case
+# studies highlight the efficiency of the proposed approach.]
 
 # # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
