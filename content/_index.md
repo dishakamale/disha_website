@@ -118,7 +118,6 @@ sections:
     design:
       columns: '2'
       view: compact
-<<<<<<< HEAD
   - block: tag_cloud
     content:
       title: Popular Topics
@@ -176,6 +175,3 @@ sections:
     design:
       columns: '2'
 ---
-=======
----
->>>>>>> 2b13b6196d0f60257f4a1195941e0e07c1ad5ceb
