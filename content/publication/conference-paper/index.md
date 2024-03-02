@@ -27,8 +27,7 @@ publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: International Conference on Robotics and Automation (ICRA 2024), Yokohama, Japan 
-publication_short: In *ICRA*
-<<<<<<< HEAD
+#publication_short: In *ICRA*
 # abstract: [In this work, we address the problem of control
 # synthesis for a homogeneous team of robots given a global
 # temporal logic specification and formal user preferences for
@@ -67,7 +66,7 @@ faction, and the MILP-based optimization approach avoids the
 state-space explosion associated with explicit product-automata
 construction, thereby efficiently solving the problem. The case
 studies highlight the efficiency of the proposed approach.
->>>>>>> parent of 0c5690a ("fixed bug")
+
 
 # # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
