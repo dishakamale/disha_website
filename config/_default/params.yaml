@@ -11,11 +11,8 @@ marketing:
     site_type: Person
     org_name: 'Lehigh University'
     description: 'Disha Kamale is a Ph.D. student at Lehigh University, researching robotics, perception-aware planning, and formal methods. Her work focuses on autonomous systems and control synthesis.'
-    twitter: ''
-  analytics:
-    google_analytics: ''
   verification:
-    google: ''  # We'll add this after verification
+    google: 'HPixiqnukSUkoQ1tQLJtD1nQ_e6FWdqucJvIItidX4c' 
 
 # Site features
 features:
