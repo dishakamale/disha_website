@@ -33,25 +33,36 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin  
+  # - block: experience
+  #   content:
+  #     title: Experience
+  #     # Date format for experience
+  #     #   Refer to https://docs.hugoblox.com/customization/#date-format
+  #     date_format: Jan 2006
+  #     # Experiences.
+  #     #   Add/remove as many `experience` items below as you like.
+  #     #   Required fields are `title`, `company`, and `date_start`.
+  #     #   Leave `date_end` empty if it's your current employer.
+  #     #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+  #     items:
+  #       - title: Graduate Rsearch Assistant
+  #         University: Lehigh University
+  #         company_url: ''
+  #         <!---company_logo: org-gc --> 
+  #         location: USA
+  #   design:
+  #     columns: '2'
   - block: experience
     content:
-      title: Experience
-      # Date format for experience
-      #   Refer to https://docs.hugoblox.com/customization/#date-format
+      title: Research Experience
       date_format: Jan 2006
-      # Experiences.
-      #   Add/remove as many `experience` items below as you like.
-      #   Required fields are `title`, `company`, and `date_start`.
-      #   Leave `date_end` empty if it's your current employer.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Graduate Rsearch Assistant
-          University: Lehigh University
-          company_url: ''
-          <!---company_logo: org-gc --> 
+        - title: Graduate Research Assistant
+          company: Autonomous and Intelligent Robotics Lab, Lehigh University
+          company_url: 'https://wordpress.lehigh.edu/robotics/'
           location: USA
-    design:
-      columns: '2'
+          date_start: '2020-01-01'  # Add this required field
+          date_end: ''  # Leave empty for current position
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
